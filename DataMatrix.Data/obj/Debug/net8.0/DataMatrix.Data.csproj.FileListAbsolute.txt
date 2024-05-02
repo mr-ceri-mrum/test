@@ -1,0 +1,17 @@
+C:\Users\Ilyas\RiderProjects\TestTaskForDataMatrix\DataMatrix.Data\bin\Debug\net8.0\DataMatrix.Data.deps.json
+C:\Users\Ilyas\RiderProjects\TestTaskForDataMatrix\DataMatrix.Data\bin\Debug\net8.0\DataMatrix.Data.runtimeconfig.json
+C:\Users\Ilyas\RiderProjects\TestTaskForDataMatrix\DataMatrix.Data\bin\Debug\net8.0\DataMatrix.Data.dll
+C:\Users\Ilyas\RiderProjects\TestTaskForDataMatrix\DataMatrix.Data\bin\Debug\net8.0\DataMatrix.Data.pdb
+C:\Users\Ilyas\RiderProjects\TestTaskForDataMatrix\DataMatrix.Data\bin\Debug\net8.0\DataMatrix.Domain.dll
+C:\Users\Ilyas\RiderProjects\TestTaskForDataMatrix\DataMatrix.Data\bin\Debug\net8.0\DataMatrix.Domain.pdb
+C:\Users\Ilyas\RiderProjects\TestTaskForDataMatrix\DataMatrix.Data\obj\Debug\net8.0\DataMatrix.Data.csproj.AssemblyReference.cache
+C:\Users\Ilyas\RiderProjects\TestTaskForDataMatrix\DataMatrix.Data\obj\Debug\net8.0\DataMatrix.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilyas\RiderProjects\TestTaskForDataMatrix\DataMatrix.Data\obj\Debug\net8.0\DataMatrix.Data.AssemblyInfoInputs.cache
+C:\Users\Ilyas\RiderProjects\TestTaskForDataMatrix\DataMatrix.Data\obj\Debug\net8.0\DataMatrix.Data.AssemblyInfo.cs
+C:\Users\Ilyas\RiderProjects\TestTaskForDataMatrix\DataMatrix.Data\obj\Debug\net8.0\DataMatrix.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ilyas\RiderProjects\TestTaskForDataMatrix\DataMatrix.Data\obj\Debug\net8.0\DataMatr.E9A6F412.Up2Date
+C:\Users\Ilyas\RiderProjects\TestTaskForDataMatrix\DataMatrix.Data\obj\Debug\net8.0\DataMatrix.Data.dll
+C:\Users\Ilyas\RiderProjects\TestTaskForDataMatrix\DataMatrix.Data\obj\Debug\net8.0\refint\DataMatrix.Data.dll
+C:\Users\Ilyas\RiderProjects\TestTaskForDataMatrix\DataMatrix.Data\obj\Debug\net8.0\DataMatrix.Data.pdb
+C:\Users\Ilyas\RiderProjects\TestTaskForDataMatrix\DataMatrix.Data\obj\Debug\net8.0\DataMatrix.Data.genruntimeconfig.cache
+C:\Users\Ilyas\RiderProjects\TestTaskForDataMatrix\DataMatrix.Data\obj\Debug\net8.0\ref\DataMatrix.Data.dll

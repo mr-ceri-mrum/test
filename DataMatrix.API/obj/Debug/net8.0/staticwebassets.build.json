@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EKVtuEUEP2aQRWp+Q4nANbdaWSLm7YvmfikyOWg8TWs=",
+  "Source": "DataMatrix.API",
+  "BasePath": "_content/DataMatrix.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

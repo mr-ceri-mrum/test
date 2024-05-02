@@ -1,0 +1,12 @@
+C:\Users\Ilyas\RiderProjects\TestTaskForDataMatrix\DataMatrix.Domain\bin\Debug\net8.0\DataMatrix.Domain.deps.json
+C:\Users\Ilyas\RiderProjects\TestTaskForDataMatrix\DataMatrix.Domain\bin\Debug\net8.0\DataMatrix.Domain.dll
+C:\Users\Ilyas\RiderProjects\TestTaskForDataMatrix\DataMatrix.Domain\bin\Debug\net8.0\DataMatrix.Domain.pdb
+C:\Users\Ilyas\RiderProjects\TestTaskForDataMatrix\DataMatrix.Domain\obj\Debug\net8.0\DataMatrix.Domain.csproj.AssemblyReference.cache
+C:\Users\Ilyas\RiderProjects\TestTaskForDataMatrix\DataMatrix.Domain\obj\Debug\net8.0\DataMatrix.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilyas\RiderProjects\TestTaskForDataMatrix\DataMatrix.Domain\obj\Debug\net8.0\DataMatrix.Domain.AssemblyInfoInputs.cache
+C:\Users\Ilyas\RiderProjects\TestTaskForDataMatrix\DataMatrix.Domain\obj\Debug\net8.0\DataMatrix.Domain.AssemblyInfo.cs
+C:\Users\Ilyas\RiderProjects\TestTaskForDataMatrix\DataMatrix.Domain\obj\Debug\net8.0\DataMatrix.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ilyas\RiderProjects\TestTaskForDataMatrix\DataMatrix.Domain\obj\Debug\net8.0\DataMatrix.Domain.dll
+C:\Users\Ilyas\RiderProjects\TestTaskForDataMatrix\DataMatrix.Domain\obj\Debug\net8.0\refint\DataMatrix.Domain.dll
+C:\Users\Ilyas\RiderProjects\TestTaskForDataMatrix\DataMatrix.Domain\obj\Debug\net8.0\DataMatrix.Domain.pdb
+C:\Users\Ilyas\RiderProjects\TestTaskForDataMatrix\DataMatrix.Domain\obj\Debug\net8.0\ref\DataMatrix.Domain.dll

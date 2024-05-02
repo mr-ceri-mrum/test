@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DataMatrix.API.props" />
+</Project>
